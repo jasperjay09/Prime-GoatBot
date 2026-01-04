@@ -26,6 +26,7 @@ const fetchAvatar = async (uid) => {
 module.exports = {
   config: {
     name: 'dim',
+    aliases: ['anda'],
     version: '2.1',
     author: 'Meheraz',
     role: 0,
